@@ -1,0 +1,6 @@
+{
+    "viewportWidth": 1280,
+    "viewportHeight": 800,
+    "defaultCommandTimeout": 10000,
+    "pageLoadTimeout": 60000
+}
