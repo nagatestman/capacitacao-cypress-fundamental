@@ -1,37 +1,29 @@
-# Treinamento Cypress Inicial
+# Capacitação Automação Web com Cypress
 
 ## Descrição:
-Treinamento de conceitos básicos de testes de automação com Cypress.
-Automação para aplicações web.
+Teste funcionais automatizados na plataforma Web.
 
-Documentação do Cypress:
+
+## Documentação:
 https://docs.cypress.io/guides/overview/why-cypress.html#In-a-nutshell
 
 
-# Clonar projeto:
-git clone http://gitdev.net.com.br/devops-dextra/FaleConoscoCypress.git
-
-## Clonar o projeto para sua máquina local:
-
-Execute o comando no terminal:
-
+## Clonar projeto para sua máquina local:
 ```
 git clone https://github.com/nagatestman/capacitacao-cypress-fundamental.git
 ```
 
 ## Instalar o Cypress:
 
-Execute o comando no terminal:
+Na pasta do projeto, executar no terminal o seguinte comando:
 
 ```
 npm install
 ```
 
-## Abrir o Cypress:
+## Abrindo o Cypress:
 
-Execute o comando no terminal:
-
+Na pasta do projeto, executar no terminal o seguinte comando:
 ```
 ./node_modules/.bin/cypress open
 ```
-
