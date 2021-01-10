@@ -13,9 +13,10 @@ https://docs.cypress.io/guides/overview/why-cypress.html#In-a-nutshell
 git clone https://github.com/nagatestman/capacitacao-cypress-fundamental.git
 ```
 
-## Instalando o Cypress:
+## Instalar o Cypress:
 
 Na pasta do projeto, executar no terminal o seguinte comando:
+
 ```
 npm install
 ```
