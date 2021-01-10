@@ -10,7 +10,7 @@ https://docs.cypress.io/guides/overview/why-cypress.html#In-a-nutshell
 
 ## Clonar projeto para sua máquina local:
 ```
-git clone http://gitdev.net.com.br/devops-dextra/FaleConoscoCypress.git
+git clone https://github.com/nagatestman/capacitacao-cypress-fundamental.git
 ```
 
 ## Instalando o Cypress:
