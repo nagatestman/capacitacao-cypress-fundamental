@@ -33,6 +33,11 @@ Na pasta do projeto, executar no terminal o seguinte comando:
 
 ## Abra o VScode para iniciar a criação dos testes (scripts)...
 
+Os scripts dos testes ficam armazenados na pasta cypress/integration.
+
+Nesta pasta há exemplos para consultas.
+
+
 Ótimo treinamento!
 
 
